@@ -8,4 +8,4 @@ numeroMaior = num1
 numeroMaior = num2
 } else {
     numeroMaior = num3}
-    console.log("Omaior número digitado é : ", numeroMaior)
+    console.log("O maior número digitado é : ", numeroMaior)
